@@ -1,0 +1,9 @@
+C:\Users\Mohammed\Desktop\Sender\Sender\bin\Debug\Sender.exe
+C:\Users\Mohammed\Desktop\Sender\Sender\bin\Debug\Sender.pdb
+C:\Users\Mohammed\Desktop\Sender\Sender\obj\Debug\Sender.Form1.resources
+C:\Users\Mohammed\Desktop\Sender\Sender\obj\Debug\Sender.Properties.Resources.resources
+C:\Users\Mohammed\Desktop\Sender\Sender\obj\Debug\Sender.csproj.GenerateResource.Cache
+C:\Users\Mohammed\Desktop\Sender\Sender\obj\Debug\Sender.exe
+C:\Users\Mohammed\Desktop\Sender\Sender\obj\Debug\Sender.pdb
+C:\Users\Mohammed\Desktop\projects\Sender\Sender\obj\Debug\Sender.exe
+C:\Users\Mohammed\Desktop\projects\Sender\Sender\obj\Debug\Sender.pdb

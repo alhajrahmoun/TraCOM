@@ -1,0 +1,15 @@
+C:\Users\Mohammed\Desktop\Receiver\Receiver\bin\Debug\Receiver.exe
+C:\Users\Mohammed\Desktop\Receiver\Receiver\bin\Debug\Receiver.pdb
+C:\Users\Mohammed\Desktop\Receiver\Receiver\obj\Debug\Receiver.Form1.resources
+C:\Users\Mohammed\Desktop\Receiver\Receiver\obj\Debug\Receiver.Properties.Resources.resources
+C:\Users\Mohammed\Desktop\Receiver\Receiver\obj\Debug\Receiver.csproj.GenerateResource.Cache
+C:\Users\Mohammed\Desktop\Receiver\Receiver\obj\Debug\Receiver.exe
+C:\Users\Mohammed\Desktop\Receiver\Receiver\obj\Debug\Receiver.pdb
+C:\Users\Mohammed\Desktop\projects\Receiver\Receiver\obj\Debug\Receiver.exe
+C:\Users\Mohammed\Desktop\projects\Receiver\Receiver\obj\Debug\Receiver.pdb
+C:\Users\Mohammed\Desktop\projects\Receiver\Receiver\bin\Debug\Receiver.exe
+C:\Users\Mohammed\Desktop\projects\Receiver\Receiver\bin\Debug\Receiver.pdb
+C:\Users\Mohammed\Desktop\projects\Receiver\Receiver\obj\Debug\Receiver.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\projects\Receiver\Receiver\obj\Debug\Receiver.Form1.resources
+C:\Users\Mohammed\Desktop\projects\Receiver\Receiver\obj\Debug\Receiver.Properties.Resources.resources
+C:\Users\Mohammed\Desktop\projects\Receiver\Receiver\obj\Debug\Receiver.csproj.GenerateResource.Cache
